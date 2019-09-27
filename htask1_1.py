@@ -1,3 +1,4 @@
+#!/usr/bin/env pyethon3
 #print oleksandr, use charcter "*"
 print('*******                                                          ')
 print('*     * *      ****** *    *  ****    **   *    * *****   *****  ')
